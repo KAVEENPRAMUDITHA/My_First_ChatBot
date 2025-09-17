@@ -93,7 +93,7 @@ pip install -r requirements.txt
 # 5. Run the Flask server (keep this terminal open)
 python app.py
 ```
-###2. Frontend Setup
+### 2. Frontend Setup
 Now, open a new, separate terminal to start the React app.
 ```
 # 1. Navigate into the frontend directory from the project root
