@@ -10,7 +10,7 @@ Here is a look at the finished chat application in action.
 
 <img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/6414f1e9-0b9a-4651-8dd7-f2beb854c8c3" /> 
 <img width="300" height="800" alt="image" src="https://github.com/user-attachments/assets/a0ddfce3-e7cb-4892-b3be-e46d1ce80725" />
-
+<img width="300" height="600" alt="image" src="https://github.com/user-attachments/assets/85570781-1662-4b01-9def-9149c4b81f0a" />
 
 
 ##  How It Works: A Teacher's Explanation
